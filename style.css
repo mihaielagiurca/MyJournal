@@ -72,6 +72,7 @@ nav a{
 .blog h2{
     margin: 0;
 }
+
 .showAdditionalMedia{
     display: none;
 }
@@ -83,7 +84,6 @@ nav a{
     display: none;
     margin: 0 auto;
 }
-
 /* footer */
 
 footer{
@@ -110,6 +110,8 @@ footer p{
     nav{
         font-size: 1rem;
     }
+   
+    
 }
 
 @media (min-width: 760px) {

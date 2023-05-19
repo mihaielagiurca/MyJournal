@@ -72,10 +72,16 @@ nav a{
 .blog h2{
     margin: 0;
 }
-
+.showAdditionalMedia{
+    display: none;
+}
 .view-more{
     text-align: center;
-    margin-bottom: 2rem;
+}
+
+#btn-view-less{
+    display: none;
+    margin: 0 auto;
 }
 
 /* footer */
